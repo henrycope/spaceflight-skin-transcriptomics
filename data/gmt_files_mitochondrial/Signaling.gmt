@@ -1,0 +1,7 @@
+Signaling	Signaling	ACOD1	ADCY10	AKAP1	AKAP10	BLOC1S1	C1QBP	CSKMT	DELE1	EFHD1	FUNDC2	IFI27	LETM1	LYPLA1	MACROD1	MAVS	MCRIP2	MCU	MCUB	MICU1	MICU2	MICU3	MRS2	MUL1	NLRX1	OCIAD2	PDE2A	PINK1	PPIF	PPTC7	PRKACA	RHOT1	RHOT2	SIRT3	SLC25A12	SLC25A13	SLC25A23	SLC25A24	SLC25A25	SLC25A3	SLC25A31	SLC25A4	SLC25A5	SLC25A6	SLC8B1	SMDT1	SPHKAP	VDAC1	VDAC3	SLC25A2
+Calcium homeostasis	Signaling > Calcium homeostasis	EFHD1	LETM1	MCU	MCUB	MICU1	MICU2	MICU3	PPIF	RHOT1	RHOT2	SLC25A12	SLC25A13	SLC25A23	SLC25A24	SLC25A25	SLC25A3	SLC25A31	SLC25A4	SLC25A5	SLC25A6	SLC8B1	SMDT1	VDAC1	VDAC3																									
+Calcium cycle	Signaling > Calcium homeostasis > Calcium cycle	LETM1	MCU	MCUB	MICU1	MICU2	MICU3	SLC25A3	SLC8B1	SMDT1																																								
+Mitochondrial permeability transition pore	Signaling > Calcium homeostasis > Mitochondrial permeability transition pore	PPIF	SLC25A31	SLC25A4	SLC25A5	SLC25A6	VDAC1	VDAC3																																										
+EF hand proteins	Signaling > Calcium homeostasis > EF hand proteins	EFHD1	MICU1	MICU2	MICU3	RHOT1	RHOT2	SLC25A12	SLC25A13	SLC25A23	SLC25A24	SLC25A25																																						
+Immune response	Signaling > Immune response	ACOD1	C1QBP	IFI27	MAVS	NLRX1																																												
+cAMP-PKA signaling	Signaling > cAMP-PKA signaling	ADCY10	AKAP1	AKAP10	PDE2A	PRKACA	SPHKAP																																											
