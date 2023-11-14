@@ -1,5 +1,7 @@
 # spaceflight-skin-transcriptomics
 
+Code for processing rodent skin data only. 
+
 Execution Order:
 
 1. download_datasets.R - downloads skin datasets from GeneLab
